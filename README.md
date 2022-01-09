@@ -10,4 +10,4 @@ burp keygen &amp; loader all in one
 [下载](https://github.com/B1eed/BurpKL/releases/latest)
 
 + 第一次运行激活 修改burpsuite.properties 中的 runburp 为false 即可
-+ 激活成功选择runburpnext 下次运行 BurpKeyGen.jar 就会直接启动burp
++ 激活成功选择RunBurpProNoUI 下次运行 BurpKL.jar 就会直接启动burp
