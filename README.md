@@ -1,8 +1,11 @@
+
 # BurpKL
 burp keygen &amp; loader all in one 
 
-<img width="569" alt="1" src="https://user-images.githubusercontent.com/36075778/146032963-da3ff7c1-bed2-415c-8711-54639883fb0f.png">
-<img width="629" alt="2" src="https://user-images.githubusercontent.com/36075778/146033259-9a9c3760-b1a8-4323-8a7b-45e5e34bb96f.png">
+
+<img width="494" alt="1" src="https://user-images.githubusercontent.com/36075778/148695259-e04b5b2e-ed46-4186-a4d5-21d7f09b0325.png">
+<img width="631" alt="2" src="https://user-images.githubusercontent.com/36075778/148695574-82510133-5d4d-4365-80ab-d5bb130ef1f0.PNG">
+
 
 [下载](https://github.com/B1eed/BurpKL/releases/latest)
 
